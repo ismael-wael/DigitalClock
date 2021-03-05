@@ -1,0 +1,9 @@
+DisplayModule_program.c:24:6:DispalyModule_voidInit	8	static
+DisplayModule_program.c:51:6:DisplayModule_voidDisplaySeconds	16	static
+DisplayModule_program.c:70:6:DisplayModule_voidDisplayMinutes	16	static
+DisplayModule_program.c:89:6:DisplayModule_voidDisplayHours	16	static
+DisplayModule_program.c:108:6:DisplayModule_voidDisplayDays	16	static
+DisplayModule_program.c:127:6:DisplayModule_voidDisplayMonths	16	static
+DisplayModule_program.c:146:6:DisplayModule_voidDisplayYears	16	static
+DisplayModule_program.c:165:6:DisplayModule_voidSetTime	16	static
+DisplayModule_program.c:170:6:DisplayModule_voidSetDate	16	static

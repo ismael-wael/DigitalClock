@@ -1,0 +1,6 @@
+OS_program.c:14:6:OS_VoidStart	8	static
+OS_program.c:21:6:OS_VoidCreateTask	24	static
+OS_program.c:39:6:OS_VoidSuspendTask	16	static
+OS_program.c:45:6:OS_VoidResumeTask	16	static
+OS_program.c:50:6:OS_VoidDeleteTask	16	static
+OS_program.c:57:6:OS_VoidSchedular	16	static

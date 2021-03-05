@@ -1,0 +1,10 @@
+SysTick_program.c:12:6:MSTK_voidInit	4	static
+SysTick_program.c:33:6:MSTK_voidSetBusyWait	16	static
+SysTick_program.c:53:6:MSTK_voidSetIntervalSingle	16	static
+SysTick_program.c:71:6:MSTK_voidSetIntervalPeriodic	16	static
+SysTick_program.c:86:6:MSTK_voidStopTimer	4	static
+SysTick_program.c:94:6:MSTK_voidResumeTimer	4	static
+SysTick_program.c:103:5:MSTK_u32GetElapsedTime	16	static
+SysTick_program.c:112:5:MSTK_u32GetRemainingTime	16	static
+SysTick_program.c:121:4:SysTick_u8ReadFlag	4	static
+SysTick_program.c:127:6:SysTick_Handler	8	static

@@ -1,0 +1,6 @@
+Hswitch_program.c:9:6:Hswitch_voidInit	16	static
+Hswitch_program.c:19:15:Hswitch_voidGetCenterSwitch	16	static
+Hswitch_program.c:26:15:Hswitch_voidGetRightSwitch	16	static
+Hswitch_program.c:33:15:Hswitch_voidGetLeftSwitch	16	static
+Hswitch_program.c:40:15:Hswitch_voidGetUpSwitch	16	static
+Hswitch_program.c:47:15:Hswitch_voidGetDownSwitch	16	static

@@ -1,0 +1,8 @@
+StatusModule_program.c:15:6:StatusModule_voidInit	8	static
+StatusModule_program.c:23:6:StatusModule_voidTimeStatus	8	static
+StatusModule_program.c:29:6:StatusModule_voidDateStatus	8	static
+StatusModule_program.c:35:6:StatusModule_voidStopWatchStatus	8	static
+StatusModule_program.c:41:6:StatusModule_voidAlarmOn	8	static
+StatusModule_program.c:46:6:StatusModule_voidAlarmOff	8	static
+StatusModule_program.c:51:6:StatusModule_voidActivateAlarm	8	static
+StatusModule_program.c:86:6:StatusModule_voidDeactivateAlarm	8	static

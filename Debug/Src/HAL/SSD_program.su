@@ -1,0 +1,7 @@
+SSD_program.c:8:6:SSD_Init	16	static
+SSD_program.c:37:6:SSD_voidEnableOneDisableRest	24	static
+SSD_program.c:54:6:SSD_voidDisableAll	16	static
+SSD_program.c:65:6:SSD_voidEnable	16	static
+SSD_program.c:70:6:SSD_voidDisable	16	static
+SSD_program.c:75:6:SSD_voidSendNumber	32	static
+SSD_program.c:104:6:SSD_voidClearLeds	16	static

@@ -1,0 +1,8 @@
+InputModule_program.c:34:6:InputModule_voidInit	8	static
+InputModule_program.c:80:6:InputModule_voidProcessInputs	8	static
+InputModule_program.c:118:13:InputModule_voidProcessCenterSwitch	16	static
+InputModule_program.c:138:13:InputModule_voidProcessRightSwitch	16	static
+InputModule_program.c:171:13:InputModule_voidProcessLeftSwitch	16	static
+InputModule_program.c:199:13:InputModule_voidProcessUpSwitch	16	static
+InputModule_program.c:229:13:InputModule_voidProcessDownSwitch	16	static
+InputModule_program.c:253:6:InputModule_voidActivateProcessInputsTask	8	static

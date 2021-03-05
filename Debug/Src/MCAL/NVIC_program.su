@@ -1,0 +1,6 @@
+NVIC_program.c:10:6:MNVIC_voidEnableInterrupt	16	static
+NVIC_program.c:17:6:MNVIC_voidDisableInterrupt	16	static
+NVIC_program.c:24:6:MNVIC_voidSetPendingFlag	16	static
+NVIC_program.c:30:6:MNVIC_voidClearPendingFlag	16	static
+NVIC_program.c:36:4:MNVIC_u8GetActiveFlag	24	static
+NVIC_program.c:46:6:MNVIC_voidSWSetPriority	24	static

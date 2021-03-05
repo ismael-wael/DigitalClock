@@ -1,0 +1,33 @@
+Src/Application/ControlModule_program.o: \
+ ../Src/Application/ControlModule_program.c ../Inc/Libraries/LIB_BMNP.h \
+ ../Inc/Libraries/LIB_STDTypes.h \
+ ../Inc/Application/ControlModule_interface.h \
+ ../Inc/Application/DisplayModule_interface.h \
+ ../Inc/Application/StatusModule_interface.h ../Inc/HAL/Led_interface.h \
+ ../Inc/HAL/Led_config.h ../Inc/MCAL/GPIO_interface.h \
+ ../Inc/HAL/SSD_interface.h ../Inc/HAL/SSD_config.h \
+ ../Inc/OS/OS_interface.h ../Inc/OS/OS_config.h
+
+../Inc/Libraries/LIB_BMNP.h:
+
+../Inc/Libraries/LIB_STDTypes.h:
+
+../Inc/Application/ControlModule_interface.h:
+
+../Inc/Application/DisplayModule_interface.h:
+
+../Inc/Application/StatusModule_interface.h:
+
+../Inc/HAL/Led_interface.h:
+
+../Inc/HAL/Led_config.h:
+
+../Inc/MCAL/GPIO_interface.h:
+
+../Inc/HAL/SSD_interface.h:
+
+../Inc/HAL/SSD_config.h:
+
+../Inc/OS/OS_interface.h:
+
+../Inc/OS/OS_config.h:

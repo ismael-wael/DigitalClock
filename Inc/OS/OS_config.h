@@ -1,0 +1,20 @@
+#ifndef OS_OS_CONFIG_H_
+#define OS_OS_CONFIG_H_
+
+#define TICK_TIME      1000
+#define TASK_NUMBERS   11
+
+#define PROCESS_INPUTS_TASK		0
+#define UPDATE_TASK				1
+#define UPDATE_DISPLAY_TASK		2
+#define UPDATE_EDIT_TASK		3
+#define ACTIVATE_ALARM_TASK		4
+#define DISPLAY_HOURS_TASK		5
+#define DISPLAY_MINUTES_TASK	6
+#define DISPLAY_SECONDS_TASK	7
+#define DISPLAY_YEARS_TASK		8
+#define DISPLAY_MONTHS_TASK		9
+#define DISPLAY_DAYS_TASK		10
+
+
+#endif /* OS_OS_CONFIG_H_ */
